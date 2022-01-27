@@ -1,4 +1,3 @@
-from cryptography.hazmat.primitives.asymmetric import rsa
 from Crypto.PublicKey import RSA
 import OpenSSL
 import ssl
